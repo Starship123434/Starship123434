@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Starship123434
 - 👀 I’m interested in coding!
-- 🌱 I’m currently learning the coding language Java
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning the coding language C#.
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
 <!---
